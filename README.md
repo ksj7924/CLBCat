@@ -1,12 +1,38 @@
 # CLBCat
 A Changing-Look Blazars Catalog (CLB Catalog) is compiled by Kang Shi-Ju.
 
+  In the catalog, partial, including but not limited to, 
+the confirmed CLBs, the predicted CLBs;
+and these transitional blazars, or  the possible transitional blazars between the standard FSRQs and BL Lac types (EW-based classification);
+even also including the red or blue (quasars) blazars.
+
+
+Note: 
+
+Dear professors, experts, readers, and potential beneficiaries:
+
+  The CLB Catalog is compiled manually, may have bugs，many shortcomings, and leave a lot to be desired. Better suggestions, more clues (references) are welcome to continuously improve the catalog.
+
+We again sincerely invite you to provide better suggestions and more clues (references) to continuously improve this directory.
+
+Best,
+
+Thanks very much !
+
+your Sincerely
+
+Shi-Ju  Kang on behalf of the coauthors
+
+e-mail: Email: kangshiju@alumni.hust.edu.cn
+
+
+
+
+
 
 Current Catalog Version: 0.000 
 
 Repository Citations: https://github.com/ksj7924/CLBCat
-
-
 
 If you use CLBCat services for a publication, we would appreciate an acknowlegement of the form:
 

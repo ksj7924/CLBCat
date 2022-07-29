@@ -38,7 +38,7 @@ Repository Citations: https://github.com/ksj7924/CLBCat
 
 If you use CLBCat services for a publication, we would appreciate an acknowlegement of the form:
 
-This research has made use the CLBCat online source catalog (https://github.com/ksj7924/CLBCat) 
+    This research has made use the CLBCat online source catalog (https://github.com/ksj7924/CLBCat) 
 
 You may alternatively cite our about CLBs paper: (https://doi.org/10.1093/mnras/stac1885)
 

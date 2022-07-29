@@ -96,7 +96,7 @@
 5,4FGL J1250.6+0217,SDSS J125032.57+021632.1,bll,LSP,P-BLL,FSRQ-like,Ruan et al. (2014),2014ApJ...797...19R
 6,,SDSS J143758.67+300207.1,,,P-BLL,FSRQ-like,Ruan et al. (2014),2014ApJ...797...19R
 0,,SDSS J083223.22+491321.0^a  ,,,not transition,,Ruan et al. (2014),2014ApJ...797...19R
-,,"a^This blazar did not transition, but is likely to be a transition blazar",,,,,,
+,,a^likely to be a transition blazar,,,,,,
 ,,,,,,,,
 ,,,,,,,,
 1,4FGL J0058.4+3315,,fsrq,LSP,BL Lacs,FS,Ghisellini et al. (2011) ,2011MNRAS.414.2674G
@@ -156,7 +156,7 @@ In_Pei,4FGL J1043.2+2408 ,TXS 1040+244,fsrq,LSP,bzq,bzb,Peña-Herazo et al. (20
 8,4FGL J0509.4+1012,,fsrq,LSP,featureless,fsrq,"Foschini, Luigi 2021",2021Univ....7..372F
 9,4FGL J0217.8+0144,,fsrq,LSP,featureless,fsrq,"Foschini, Luigi 2021",2021Univ....7..372F
 10,4FGL J0522.9-3628,,AGN,LSP,featureless,AGN,"Foschini, Luigi 2021",2021Univ....7..372F
-11,4FGL J1037.4-2933,PKS 1034-293,fsrq,LSP,featureless,fsrq,"Foschini, Luigi 2021",2021Univ....7..372F
+11,4FGL J1037.4-2933,,fsrq,LSP,featureless,fsrq,"Foschini, Luigi 2021",2021Univ....7..372F
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,
@@ -169,6 +169,22 @@ In_Pei,4FGL J1043.2+2408 ,TXS 1040+244,fsrq,LSP,bzq,bzb,Peña-Herazo et al. (20
 1,4FGL J1422.3+3223 ,B2 1420+32,fsrq,LSP,FSRQ,BL Lac,Mishra et al. (2021),2021ApJ...913..146M
 1,4FGL J1153.4+4931 ,4C+29.22 (S4 1150+49),fsrq,LSP,FSRQ,BL Lacs,Cutini et al. (2014),2014MNRAS.445.4316C
 1,4FGL J0509.4+0542,TXS 0506+056,bll,ISP,bll,FSRQ,Padovani et al. (2019),2019MNRAS.484L.104P
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,4FGL J0058.4+3315,1FGL J0058.0+3314,fsrq,LSP,BL Lac, nominal_FSRQ,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
+,4FGL J0923.5+4125,1FGL J0923.2+4121,fsrq,LSP,BL Lac, nominal_FSRQ,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
+,4FGL J1001.1+2911,1FGL J1000.9+2915 ,bll,LSP,BL Lac, nominal_FSRQ,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
+,4FGL J1607.0+1550,1FGL J1607.1+1552 ,bll,LSP,BL Lac, nominal_FSRQ,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
+,4FGL J2032.0+1219,1FGL J2031.5+1219 ,bll,LSP,BL Lac, nominal_FSRQ,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
+,4FGL J2244.2+4057,1FGL J2243.4+4104 ,fsrq,LSP,BL Lac, nominal_FSRQ,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
+,,,,,,,,
+,4FGL J0430.3-2507,1FGL J0430.4-2509 ,bll,ISP,BL Lac, broad_lines_BLL,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
+,4FGL J0516.7-6207,1FGL J0516.7-6207,bll,LSP,BL Lac, broad_lines_BLL,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
+,4FGL J1058.4+0133,1FGL J1058.4+0134 ,bll,LSP,BL Lac, broad_lines_BLL,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
+,4FGL J2236.3+2828,1FGL J2236.2+2828 ,fsrq,LSP,BL Lac, broad_lines_BLL,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
+, 4FGL J2315.6-5018,1FGL J2315.9-5014 ,bll,LSP,BL Lac, broad_lines_BLL,Shaw et al. 2012,doi:10.1088/0004-637X/748/1/49 
 ,,,,,,,,
 ,,,,,,,,
 ,,,,,,,,

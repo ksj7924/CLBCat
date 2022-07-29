@@ -40,6 +40,20 @@ This research has made use the CLBCat online source catalog (https://github.com/
 
 You may alternatively cite our ICRC paper: (https://github.com/ksj7924/CLBCat)
 
+    @article{10.1093/mnras/stac1885,
+    author = {Cheng, Y P and Kang, S J and Zheng, Y G},
+    title = "{The dichotomy between low-frequency-peaked BL Lacs and flat-spectrum radio quasars}",
+    journal = {Monthly Notices of the Royal Astronomical Society},
+    volume = {515},
+    number = {2},
+    pages = {2215-2223},
+    year = {2022},
+    month = {07},
+    issn = {0035-8711},
+    doi = {10.1093/mnras/stac1885},
+    url = {https://doi.org/10.1093/mnras/stac1885},
+    eprint = {https://academic.oup.com/mnras/article-pdf/515/2/2215/45182118/stac1885.pdf},
+    }
 
 
 

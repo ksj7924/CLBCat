@@ -40,7 +40,7 @@ If you use CLBCat services for a publication, we would appreciate an acknowlegem
 
 This research has made use the CLBCat online source catalog (https://github.com/ksj7924/CLBCat) 
 
-You may alternatively cite our ICRC paper: (https://github.com/ksj7924/CLBCat)
+You may alternatively cite our about CLBs paper: (https://doi.org/10.1093/mnras/stac1885)
 
     @article{10.1093/mnras/stac1885,
     author = {Cheng, Y P and Kang, S J and Zheng, Y G},

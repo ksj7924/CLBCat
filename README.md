@@ -1,6 +1,8 @@
 # CLBCat
-A Changing-Look (Transition) Blazars Catalog (CLB Catalog) is compiled by Kang Shi-Ju （https://orcid.org/0000-0002-9071-5469）. 
+A Changing-Look (Transition) Blazars Catalog (CLB Catalog) is compiled by Kang Shi-Ju.
 
+orcid: 
+    https://orcid.org/0000-0002-9071-5469
 
 
   In the catalog, partial, including but not limited to, 

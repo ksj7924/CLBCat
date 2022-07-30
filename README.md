@@ -32,7 +32,6 @@ Note:
 
 
 
-Current Catalog Version: 0.000 
 
 Repository Citations: https://github.com/ksj7924/CLBCat
 
@@ -59,3 +58,8 @@ You may alternatively cite our about CLBs paper: (https://doi.org/10.1093/mnras/
 
 
 
+
+
+
+
+Current Catalog Version: 0.000  (Update to 2022-07-30)

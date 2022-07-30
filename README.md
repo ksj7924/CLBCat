@@ -15,7 +15,7 @@ Note:
     Better suggestions, more clues (references) are welcome to continuously improve the catalog.
 
     We again sincerely invite you to provide better suggestions and more clues (references) 
-    to continuously improve this directory.
+    to continuously improve this Catalog.
 
     Best,
     

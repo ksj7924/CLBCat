@@ -1,5 +1,5 @@
 # CLBCat
-A Changing-Look Blazars Catalog (CLB Catalog) is compiled by Kang Shi-Ju.
+A Changing-Look (Transition) Blazars Catalog (CLB Catalog) is compiled by Kang Shi-Ju. 
 
   In the catalog, partial, including but not limited to, 
 the confirmed CLBs, the predicted CLBs;

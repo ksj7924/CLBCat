@@ -4,11 +4,13 @@ A Changing-Look (Transition) Blazars Catalog (CLB Catalog) is compiled by Kang S
 orcid: 
     https://orcid.org/0000-0002-9071-5469
 
+Note:
 
-  In the catalog, partial, including but not limited to, 
-the confirmed CLBs, the predicted CLBs;
-and these transitional blazars, or  the possible transitional blazars between the standard FSRQs and BL Lac types (EW-based classification);
-even also including the red or blue (quasars) blazars.
+
+    In the catalog, partial, including but not limited to, the confirmed CLBs, the predicted CLBs; 
+    and these transitional blazars, or the possible transitional blazars 
+    between the standard FSRQs and BL Lac types (EW-based classification);
+    even also including the red or blue (quasars) blazars.
 
 
 Note: 
@@ -66,4 +68,4 @@ You may alternatively cite our about CLBs paper: (https://doi.org/10.1093/mnras/
 
 
 
-Current Catalog Version: 0.000  (Update to 2022-07-30)
+Current Catalog Version: 0.000  (Update to 2022-08-01)

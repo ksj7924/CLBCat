@@ -70,4 +70,4 @@ You may alternatively cite our about CLBs paper: (https://doi.org/10.1093/mnras/
 
 
 
-Current Catalog Version: 0.000  (Update to 2022-08-16)
+Current Catalog Version: 0.001  (Update to 2022-08-16)

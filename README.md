@@ -63,7 +63,23 @@ You may alternatively cite our about CLBs paper: (https://doi.org/10.1093/mnras/
     url = {https://doi.org/10.1093/mnras/stac1885},
     eprint = {https://academic.oup.com/mnras/article-pdf/515/2/2215/45182118/stac1885.pdf},
     }
+    
+or 
 
+    @ARTICLE{2022MNRAS.515.2215C,
+    author = {{Cheng}, Y.~P. and {Kang}, S.~J. and {Zheng}, Y.~G.},
+    title = "{The dichotomy between low-frequency-peaked BL Lacs and flat-spectrum radio quasars}",
+    journal = {\mnras},
+    keywords = {(galaxies:) BL Lacertae objects: general, Galaxies: (galaxies:) quasars: general, Galaxies},
+    year = 2022,
+    month = sep,
+    volume = {515},
+    number = {2},
+    pages = {2215-2223},
+    doi = {10.1093/mnras/stac1885},
+    adsurl = {https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.2215C},
+    adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+    }
 
 
 

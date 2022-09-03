@@ -69,10 +69,8 @@ You may alternatively cite our about CLBs paper: (https://doi.org/10.1093/mnras/
 
 
 
+Catalog Version:
 
-
-History Catalog Version: 0.001  (Update to 2022-08-16)
-
-History Catalog Version: 0.002  (Update to 2022-08-24)
-
-Current Catalog Version: 0.003  (Update to 2022-09-03)
+    History Catalog Version: 0.001  (Update to 2022-08-16)
+    History Catalog Version: 0.002  (Update to 2022-08-24)
+    Current Catalog Version: 0.003  (Update to 2022-09-03)

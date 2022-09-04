@@ -19,8 +19,9 @@ Note:
 
     Dear professors, experts, readers, and potential beneficiaries:
     
-    The CLB Catalog is compiled manually, may have bugs，many shortcomings, and leave a lot to be desired. 
-    Better suggestions, more clues (references) are welcome to continuously improve the catalog.
+    The CLB Catalog is compiled manually, may have bugs，many shortcomings, 
+    and leave a lot to be desired. Better suggestions, 
+    more clues (references) are welcome to continuously improve the catalog.
 
     We again sincerely invite you to provide better suggestions and more clues (references) 
     to continuously improve this Catalog.

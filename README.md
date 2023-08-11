@@ -90,4 +90,5 @@ Catalog Version:
 
     History Catalog Version: 0.001  (Update to 2022-08-16)
     History Catalog Version: 0.002  (Update to 2022-08-24)
-    Current Catalog Version: 0.003  (Update to 2022-09-03)
+    History Catalog Version: 0.003  (Update to 2022-09-03)
+    Current Catalog Version: 0.004  (Update to 2023-08-11)

@@ -48,24 +48,21 @@ If you use CLBCat services for a publication, we would appreciate an acknowlegem
 
     This research has made use the CLBCat online source catalog (https://github.com/ksj7924/CLBCat) 
 
-You may alternatively cite our about CLBs paper: (https://doi.org/10.1093/mnras/stac1885)
-
-    @article{10.1093/mnras/stac1885,
-    author = {Cheng, Y P and Kang, S J and Zheng, Y G},
-    title = "{The dichotomy between low-frequency-peaked BL Lacs and flat-spectrum radio quasars}",
-    journal = {Monthly Notices of the Royal Astronomical Society},
-    volume = {515},
-    number = {2},
-    pages = {2215-2223},
-    year = {2022},
-    month = {07},
-    issn = {0035-8711},
-    doi = {10.1093/mnras/stac1885},
-    url = {https://doi.org/10.1093/mnras/stac1885},
-    eprint = {https://academic.oup.com/mnras/article-pdf/515/2/2215/45182118/stac1885.pdf},
-    }
+or
     
-or 
+    @software{shi_ju_kang_2023_8239456,
+    author       = {{Kang et al.}},
+    title        = {{TCLBCat: A Changing-Look (Transition) Blazars Catalog}},
+    month        = aug,
+    year         = 2023,
+    publisher    = {Zenodo},
+    version      = {TCLBsCatalogv1.0.0},
+    doi          = {10.5281/zenodo.8239456},
+    url          = {https://doi.org/10.5281/zenodo.8239456}
+    }
+
+
+You may alternatively cite our about CLBs paper: (https://doi.org/10.1093/mnras/stac1885)
 
     @ARTICLE{2022MNRAS.515.2215C,
     author = {{Cheng}, Y.~P. and {Kang}, S.~J. and {Zheng}, Y.~G.},

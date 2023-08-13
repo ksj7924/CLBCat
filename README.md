@@ -7,7 +7,8 @@ orcid:
 Note:
 
 
-    In the catalog, partial, including but not limited to, the confirmed CLBs, the predicted CLBs; 
+    In the Changing-Look Blazar catalog, partial, including but not limited to, 
+    the confirmed Changing-Look Blazars (CLBs), the predicted CLBs; 
     and these transitional blazars, or the possible transitional blazars 
     between the standard FSRQs and BL Lac types (EW-based classification);
     even also including the red or blue (quasars) blazars;

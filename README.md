@@ -81,6 +81,29 @@ You may alternatively cite our about CLBs paper: (https://doi.org/10.1093/mnras/
     }
 
 
+or 
+
+
+    @ARTICLE{2023arXiv230805794K,
+       author = {{Kang}, Shi-Ju and {Zheng}, Yong-Gang and {Wu}, Qingwen},
+        title = "{Hunting for the candidates of misclassified sources in LSP BL Lacs using Machine learning}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - High Energy Astrophysical Phenomena},
+         year = 2023,
+        month = aug,
+          eid = {arXiv:2308.05794},
+        pages = {arXiv:2308.05794},
+          doi = {10.48550/arXiv.2308.05794},
+archivePrefix = {arXiv},
+       eprint = {2308.05794},
+ primaryClass = {astro-ph.HE},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2023arXiv230805794K},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+
+
+
 
 
 

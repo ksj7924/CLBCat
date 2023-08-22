@@ -102,6 +102,27 @@ or
     }
 
 
+or 
+
+
+    @ARTICLE{2023MNRAS.tmp.2362K,
+    author = {{Kang}, Shi-Ju and {Zheng}, Yong-Gang and {Wu}, Qingwen},
+    title = "{Hunting for the candidates of misclassified sources in LSP BL Lacs using Machine learning}",
+    journal = {\mnras},
+    keywords = {galaxies: active, Galaxies: quasars: general, Galaxies: BL Lacertae objects: general, Galaxies, Astrophysics - High Energy Astrophysical Phenomena},
+    year = 2023,
+    month = aug,
+    doi = {10.1093/mnras/stad2456},
+    archivePrefix = {arXiv},
+    eprint = {2308.05794},
+     primaryClass = {astro-ph.HE},
+    adsurl = {https://ui.adsabs.harvard.edu/abs/2023MNRAS.tmp.2362K},
+    adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+    }
+
+
+
+
 
 
 

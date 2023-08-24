@@ -125,6 +125,9 @@ or
 
 
 
+Cheng, Y. P.; Kang, S. J.; Zheng, Y. G. The dichotomy between low-frequency-peaked BL Lacs and flat-spectrum radio quasars. 2022, MNRAS, 515, 2215
+Kang, S. J.; Zheng, Y. G.; Wu, Q. Hunting for the candidates of misclassified sources in LSP BL Lacs using Machine learning. 2023,MNRAS, tmp, 2362, arXiv:2308.05794
+
 
 
 

@@ -134,7 +134,7 @@ Kang, S. J.; Zheng, Y. G.; Wu, Q. Hunting for the candidates of misclassified so
 
 Catalog Version:
 
-    Current Catalog Version: 1  (Update to 2023-08-11)
-    History Catalog Version: 0.3  (Update to 2022-09-03)
-    History Catalog Version: 0.2  (Update to 2022-08-24)
-    History Catalog Version: 0.1  (Update to 2022-08-16)
+    Current Catalog Version: 1.0.0  (Update to 2023-08-11)
+    History Catalog Version: 0.0.3  (Update to 2022-09-03)
+    History Catalog Version: 0.0.2  (Update to 2022-08-24)
+    History Catalog Version: 0.0.1  (Update to 2022-08-16)
